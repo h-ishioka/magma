@@ -1,10 +1,10 @@
 # magma.py
-Magma Calculator（ http://magma.maths.usyd.edu.au/calc/ ）をコマンドラインから実行するツール
+[Magma Calculator](http://magma.maths.usyd.edu.au/calc/)をコマンドラインから実行するツール
 
 ## Usage
 
-```cmd
-python magma.py [-v] FILE
+```sh
+$ python magma.py [-v] FILE
 ```
 
 `-v` オプションをつけると計算時間などの情報も表示します。
